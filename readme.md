@@ -1,7 +1,7 @@
 # 簡介
 建立一個簡單易用的Python小程式來抓取Facebook粉絲專頁上的資訊
 
-# test Orozco
+# test kennywarwick
 
 # 使用方式
 先clone本專案，利用pip 安裝 requests。
